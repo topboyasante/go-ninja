@@ -1,0 +1,5 @@
+Bill Breakdown 
+Meat Bread:               ...$0.5 
+Icy Cola:                 ...$1.99 
+tip:                      ...$0.00 
+Total:                    ...$2.49
